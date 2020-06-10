@@ -1,1 +1,2 @@
 These are changes to the TEST file on the master branch
+This is a test for the new branch
